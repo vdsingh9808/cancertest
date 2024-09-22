@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vdsingh9808/cancertest.git/static/css/main.b5e97edd.css",
-    "main.js": "/vdsingh9808/cancertest.git/static/js/main.9ea91826.js",
-    "static/js/453.e5b00392.chunk.js": "/vdsingh9808/cancertest.git/static/js/453.e5b00392.chunk.js",
-    "static/media/logo.svg": "/vdsingh9808/cancertest.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/vdsingh9808/cancertest.git/index.html",
-    "main.b5e97edd.css.map": "/vdsingh9808/cancertest.git/static/css/main.b5e97edd.css.map",
-    "main.9ea91826.js.map": "/vdsingh9808/cancertest.git/static/js/main.9ea91826.js.map",
-    "453.e5b00392.chunk.js.map": "/vdsingh9808/cancertest.git/static/js/453.e5b00392.chunk.js.map"
+    "main.css": "/vishwatest/static/css/main.b5e97edd.css",
+    "main.js": "/vishwatest/static/js/main.d98b4733.js",
+    "static/js/453.e5b00392.chunk.js": "/vishwatest/static/js/453.e5b00392.chunk.js",
+    "static/media/logo.svg": "/vishwatest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vishwatest/index.html",
+    "main.b5e97edd.css.map": "/vishwatest/static/css/main.b5e97edd.css.map",
+    "main.d98b4733.js.map": "/vishwatest/static/js/main.d98b4733.js.map",
+    "453.e5b00392.chunk.js.map": "/vishwatest/static/js/453.e5b00392.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5e97edd.css",
-    "static/js/main.9ea91826.js"
+    "static/js/main.d98b4733.js"
   ]
 }
