@@ -1,0 +1,12 @@
+"post" :[
+    {"id":"1", "title": :"shwa","view":100 },
+    {"id":"2", "title":"hello sir ", "view":100}
+
+],
+"comment":[
+    {"id":"1", "title": :"comment shwa","postid":"1" },
+    {"id":"2", "title":"comment hello sir ", "postid":"3"}
+],
+"profile":{
+    "name":"typicode"
+}

@@ -1,0 +1,7 @@
+.prodcutImage img{
+    height: 200px;
+}
+
+.productSection{
+    display: flex;
+}
